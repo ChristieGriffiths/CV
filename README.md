@@ -1,6 +1,6 @@
 # Christie Griffiths
 
-[Email](mailto:christiegriffiths@outlook.com) | [GitHub](https://github.com/your-github-username) | [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
+[Email](mailto:christiegriffiths@outlook.com) | [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
 
 After engaging with the Effective Altruism community, I made the leap from Care Work to Software Development. Driven by my passion for logic and technology, I believe in tech's incredible potential to positively impact lives. I’m very excited to have begun this journey!
 
@@ -56,4 +56,4 @@ Technologies Used: JavaScript, HTML, CSS, Jest.
 
 ## Interests
 
-Coding, Film Making (Winner of the Herne Hill Short Film Festival 2023), Skateboarding, Chess, and Spanish.
+[Coding](https://www.codewars.com/users/wanderingkangeroo), Film Making ([Winner of the Herne Hill Short Film Festival 2023](https://www.youtube.com/watch?v=E_VhYtBlVpc&ab_channel=ChristieGriffiths), [Skateboarding](https://www.youtube.com/watch?v=0UgJDPUxeRA&ab_channel=ChristieGriffiths), Chess, and Spanish.
