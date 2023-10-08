@@ -1,8 +1,8 @@
 # Christie Griffiths
 
 - **Email**: [christiegriffiths@outlook.com](mailto:christiegriffiths@outlook.com)
-- **GitHub**: [GitHub Profile](https://github.com/your-github-username)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-username/)
+- **GitHub**: [GitHub Profile]([https://github.com/your-github-username](https://github.com/ChristieGriffiths))
+- **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/christie-griffiths-39b029284/))
 - **Location**: London, UK
 
 ## About Me
