@@ -1,11 +1,8 @@
 # Christie Griffiths
 
-# Christie Griffiths
-
 - **Email**: [christiegriffiths@outlook.com](mailto:christiegriffiths@outlook.com)
 - **GitHub**: [GitHub Profile](https://github.com/your-github-username)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-username/)
-- **Phone**: 07367 350 536
 - **Location**: London, UK
 
 ## About Me
