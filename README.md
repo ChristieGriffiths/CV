@@ -1,7 +1,9 @@
-# Christie Griffiths
-
-<christiegriffiths@outlook.com> | [GitHub](https://github.com/ChristieGriffiths) | [LinkedIn](https://www.linkedin.com/in/christie-griffiths-39b029284/)
-
+<p align="center">
+  <strong>Christie Griffiths</strong><br>
+  <a href="mailto:christiegriffiths@outlook.com">christiegriffiths@outlook.com</a> | 
+  <a href="https://github.com/ChristieGriffiths">GitHub</a> | 
+  <a href="https://www.linkedin.com/in/christie-griffiths-39b029284/">LinkedIn</a>
+</p>
 **About Me**
 
 After engaging with the Effective Altruism community, I made the leap from Care Work to Software Development. Driven by my passion for logic and technology, I believe in tech's incredible potential to positively impact lives. I'm an avid tech learner who aspires to write clean code.
