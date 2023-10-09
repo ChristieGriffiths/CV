@@ -1,10 +1,21 @@
-<p align="center">
-  <h1>Christie Griffiths</h1><br>
-  <a href="mailto:christiegriffiths@outlook.com">christiegriffiths@outlook.com</a> | 
-  <a href="https://github.com/ChristieGriffiths">GitHub</a> | 
-  <a href="https://www.linkedin.com/in/christie-griffiths-39b029284/">LinkedIn</a>
-</p>
-**About Me**
+<div align="center">
+  <h1>Christie Griffiths - Aspiring Junior Developer</h1>
+  <a href="https://www.linkedin.com/in/christie-griffiths-39b029284/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" /></a>
+  <a href="mailto:christiegriffiths@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" alt="Outlook Badge" /></a>
+  <a href="https://github.com/ChristieGriffiths"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Badge" /></a>
+  <br>
+  <br>
+  <div>
+    <a href="#-about-me">About Me</a> | 
+    <a href="#-main-projects">Main Projects</a> |
+    <a href="#-experience">Experience</a> |
+    <a href="#-employment-experience">Employment Experience</a> |
+    <a href="#-education">Education</a> |
+    <a href="#-interests">Interests</a>
+  </div>
+</div>
+
+**About Me
 After engaging with the Effective Altruism community, I made the leap from Care Work to Software Development. Driven by my passion for logic and technology, I believe in tech's incredible potential to positively impact lives. I'm an avid tech learner who aspires to write clean code.
 
 **Main Projects**
