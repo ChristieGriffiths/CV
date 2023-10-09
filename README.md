@@ -7,6 +7,7 @@
 
 
 **About Me**
+
 After engaging with the Effective Altruism community, I made the leap from Care Work to Software Development. Driven by my passion for logic and technology, I believe in tech's incredible potential to positively impact lives. I'm an avid tech learner who aspires to write clean code.
 
 **Main Projects**
