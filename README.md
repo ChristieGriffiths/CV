@@ -5,17 +5,9 @@
   <a href="https://github.com/ChristieGriffiths"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Badge" /></a>
   <br>
   <br>
-  <div>
-    <a href="#-about-me">About Me</a> | 
-    <a href="#-main-projects">Main Projects</a> |
-    <a href="#-experience">Experience</a> |
-    <a href="#-employment-experience">Employment Experience</a> |
-    <a href="#-education">Education</a> |
-    <a href="#-interests">Interests</a>
-  </div>
 </div>
 
-**About Me
+**About me**
 After engaging with the Effective Altruism community, I made the leap from Care Work to Software Development. Driven by my passion for logic and technology, I believe in tech's incredible potential to positively impact lives. I'm an avid tech learner who aspires to write clean code.
 
 **Main Projects**
