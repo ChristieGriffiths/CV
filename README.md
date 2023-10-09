@@ -16,10 +16,14 @@ After engaging with the Effective Altruism community, I made the leap from Care 
 **Experience**
 
 **Makers Coding Bootcamp (March 2023 - Jul 2023)**  
-- Built a replica of Facebook using JavaScript with MongoDB.
-- Built a replica of Twitter from scratch using Ruby with a PostgreSQL DB.
-- Gained experience in Object-Oriented Design (OOD) and Test-Driven Development (TDD).
-- Collaborated effectively in team environments, utilized agile methodologies, and practiced pair programming.
+- Built a replica of Facebook using JavaScript with MongoDB - a two-week-long group project.
+- Built a replica of Twitter from scratch using Ruby with a PostgreSQL DB - a week-long group project.
+- Used GitHub in a group setting where we became accustomed to having multiple branches, pull requests, and merge conflicts.
+- OOD (Object-Oriented Design): Began to familiarize myself with object-oriented programming principles, enabling me to write clean, organized, and maintainable code.
+- Agile Methodologies: We used them in all our group projects – we focused on collaboration, adaptability, and iterative development which allowed us to deliver high-quality results.
+- Used TDD to create all our projects - it was an invaluable insurance policy for our code. I’m a big fan of TDD because without it it seems analogous to rock climbing without a rope.
+- Pair Programming: For 3 months, spent half the day doing pair programming. This accelerated my learning as it helped reinforce the things I already knew by explaining them to my partner when they were confused and when I was confused I’d often be clarified much sooner than would have been had I been on my own. It also improved my ability to verbalize what I thought my code was doing and why - which is a key part of software development as a team.
+
 
 **Employment Experience**
 
