@@ -11,7 +11,7 @@ After engaging with the Effective Altruism community, I made the leap from Care 
 | Role          | Project Name                     | Technologies Used                    | Description                                                                                                     | Repository                                         |
 |---------------|----------------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
 | Solo project  | [JustCarrot.co.uk](https://justcarrot.co.uk) | JavaScript, MongoDB, Express, React, Node, HTML, CSS | A technology I created to help users with habit change. Users set themselves a goal with a time limit and incentivize themselves with money. If they succeed, they get their money back; otherwise, it's donated to an effective charity. | [GitHub Repo](https://github.com/ChristieGriffiths/Just-Carrot) |
-| Group project | Battle Tetris                    | JavaScript, HTML, CSS, Jest          | A two-player Tetris game developed from scratch. I implemented real-time gameplay and created the logic that defined when a player had won the game.                    | [GitHub Repo](https://github.com/ChristieGriffiths/Tetris)      |
+| Group project | [Battle Tetris](https://michael-szczepanski.itch.io/battle-tetris) | JavaScript, HTML, CSS, Jest          | A two-player Tetris game developed from scratch. I implemented real-time gameplay and created the logic that defined when a player had won the game.                    | [GitHub Repo](https://github.com/ChristieGriffiths/Tetris)      |
 
 **Experience**
 
